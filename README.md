@@ -6,6 +6,11 @@
 
 > Important Functions in code
 
+>Tools and languages used
+
+>Describtion
+
+>License
   
 
 ## Architecture
